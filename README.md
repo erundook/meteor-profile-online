@@ -6,7 +6,7 @@ provide a convenient way to expose accounts online status.
 
 ## Installation
 
-Publish with relations can be installed with 
+Profile.online can be installed with 
 [Meteorite](https://github.com/oortcloud/meteorite/).
 From inside a Meteorite-managed app:
 
